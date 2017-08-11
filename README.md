@@ -1,4 +1,6 @@
 # README
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_backend.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_backend?ref=badge_shield)
+
 
 * Ruby version
     2.3.1
@@ -19,3 +21,6 @@ Diagrams can be found at (doc/data_models):
 
 # License
 This project is licensed under the terms of the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_backend.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode_backend?ref=badge_large)

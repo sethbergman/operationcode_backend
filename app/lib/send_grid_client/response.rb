@@ -14,7 +14,7 @@ class SendGridClient::Response
   private
 
   def successful_status_code
-    status_code == '201'
+    status_code == '2xx'
   end
 
   # Some requests don't return a body so we default to just checking

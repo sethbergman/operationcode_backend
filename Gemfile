@@ -8,14 +8,14 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'active_model_serializers'
+gem 'active_model_serializers', '>= 0.10.5'
 gem 'acts-as-taggable-on', '~> 5.0'
-gem 'devise'
+gem 'devise', '>= 4.2.1'
 gem 'geocoder'
 gem 'gibbon'
 gem 'httparty'
 gem 'jwt'
-gem 'lograge'
+gem 'lograge', '>= 0.4.1'
 gem 'logstash-event'
 gem 'operationcode-airtable'
 gem 'operationcode-slack'
@@ -27,13 +27,13 @@ gem 'rails', '~> 5.0.2'
 gem 'redis', '~> 3.0'
 gem 'sendgrid-ruby'
 gem 'sentry-raven'
-gem 'sidekiq'
+gem 'sidekiq', '>= 4.2.10'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
   gem 'mocha'
-  gem 'factory_girl_rails'
+  gem 'factory_girl_rails', '>= 4.8.0'
   gem 'faker'
   gem 'awesome_print', '~> 1.8'
 end

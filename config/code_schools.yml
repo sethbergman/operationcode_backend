@@ -20,7 +20,7 @@
 ---
 - name: Wyncode Academy
   url: http://wyncode.co
-  logo: https://raw.githubusercontent.com/OperationCode/operationcode_frontend/master/src/images/codeSchoolLogos/wyncode.jpg
+  logo: wyncode.jpg
   full_time: true
   hardware_included: false
   has_online: false
@@ -685,6 +685,6 @@
   locations:
     - va_accepted: true
       address1: 370 South 300 East
-      city: Downtown Salt Lake City 
+      city: Downtown Salt Lake City
       state: UT
       zip: 84111

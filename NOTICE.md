@@ -5,11 +5,7 @@ The following 3rd-party software components may be used by or distributed with *
 
 ## License Scan
 
-
-### UNRECOGNIZED
-
-
-### MIT License (Expat)
+### MIT License
 MIT License
 
 Copyright (c) 2017 Operation Code
